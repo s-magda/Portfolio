@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 
-### TOOLS / TECH STACK 🔧
+### TOOLS 🔧
 
 - SQL Server Management Studio
 - MS Excel
@@ -12,10 +12,12 @@
 - CSS
 - GitHub
 - Monosnap
+- Bug Magnet
 
 ### TECH SKILLS 👩🏻‍💻
 
 - Knowledge of ISTQB Foundation Level Syllabus
+- Agile / Waterfall / Kanban / Scrum
 
 ### COURSES 🎓
 
