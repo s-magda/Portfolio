@@ -21,7 +21,7 @@
 
 ### COURSES 🎓
 
-- SQL
+- SQL - <a href = "https://www.hintmine.com/" > HintMine </a> MS SQL zaawansowany
 - HTML/CSS - <a href="https://www.udemy.com/course/kurs-web-developer-od-podstaw-w-15-dni/"> Web developer od podstaw </a>
 - Postman Academy
   - <a href="https://academy.postman.com/path/api-beginner"> API Beginner </a>
@@ -29,9 +29,9 @@
 
 ### PROJECTS ✅
 
-- Mr Buggy 6 <a href="https://docs.google.com/spreadsheets/d/1HNxHcSAlde2WbeBaQploqZ6pKmNt4RCOiCUOzrxsPDU/edit?gid=0#gid=0" target="_blank"> Test cases based on the user story </a>
+- Mr Buggy 6 <a href="https://docs.google.com/spreadsheets/d/1HNxHcSAlde2WbeBaQploqZ6pKmNt4RCOiCUOzrxsPDU/edit?gid=0#gid=0" target="_blank"> Test cases based on the user story </a> [in progress]
 
 ### BOOKS 📚
 
 - "Zawód tester. Od decyzji do zdobycia doświadczenia" - Radosław Smilgin
-- "Testowanie full stack. Praktyczny przewodnik dostarczania oprogramowania wysokiej jakości" - Gayathri Mohan
+- "Testowanie full stack. Praktyczny przewodnik dostarczania oprogramowania wysokiej jakości" - Gayathri Mohan [in progress]
