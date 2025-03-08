@@ -22,10 +22,11 @@
 ### COURSES 🎓
 
 - SQL - <a href = "https://www.hintmine.com/" > HintMine </a> MS SQL zaawansowany
+- Postman - <a href="https://www.udemy.com/course/postman-the-complete-guide/?couponCode=KEEPLEARNING"> Postman: The Complete Guide - REST API Testing</a>
+  - Postman Academy
+    - <a href="https://academy.postman.com/path/api-beginner"> API Beginner </a>
+    - <a href="https://academy.postman.com/path/api-testing-path"> API Testing Path </a>
 - HTML/CSS - <a href="https://www.udemy.com/course/kurs-web-developer-od-podstaw-w-15-dni/"> Web developer od podstaw </a>
-- Postman Academy
-  - <a href="https://academy.postman.com/path/api-beginner"> API Beginner </a>
-  - <a href="https://academy.postman.com/path/api-testing-path"> API Testing Path </a>
 
 ### PROJECTS ✅
 
