@@ -36,7 +36,7 @@ For over 4 years, I’ve been working with data – reporting, validating its ac
 ### PROJECTS ✅
 
 - Mr Buggy 6 <a href="https://docs.google.com/spreadsheets/d/1HNxHcSAlde2WbeBaQploqZ6pKmNt4RCOiCUOzrxsPDU/edit?gid=0#gid=0" target="_blank"> Test cases based on the user story </a> [in progress]
-- <a href = "https://drive.google.com/drive/folders/1KnQNTiVGsKkQOZY__CCdoskO3AHTyZdj?usp=drive_link"> True bugs found on the internet </a>
+- <a href = "https://drive.google.com/drive/folders/1KnQNTiVGsKkQOZY__CCdoskO3AHTyZdj?usp=drive_link"> Bugs I found on the internet </a>
 
 ### BOOKS 📚
 
